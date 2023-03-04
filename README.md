@@ -37,7 +37,7 @@ Hi, I am a Frontend Engineer with UI/UX design and web development skills. Curre
 ## 📘 My Projects</h2>
 
   <p align="left">
-    <a href="https://github.com/aryoyudhanto/TIMESYNC-FE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryoyudhanto&repo=TIMESYNC-FE&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/rizkysyahrir/EDU-APP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rizkysyahrir&repo=EDU-APP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/aryoyudhanto/ecommerce-FE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryoyudhanto&repo=ecommerce-FE&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/aryoyudhanto/Airbnb-FE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryoyudhanto&repo=Airbnb-FE&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/aryoyudhanto/mymovies-app-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryoyudhanto&repo=mymovies-app-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -67,11 +67,7 @@ Hi, I am a Frontend Engineer with UI/UX design and web development skills. Curre
 ![Cucumber](https://img.shields.io/badge/-cucumber-4bc47b?style=for-the-badge&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/materialui-%231572B6.svg?style=for-the-badge&logo=mui&logoColor=white)
-<img src="https://img.shields.io/badge/React_Cookie-FFADFC?style=for-the-badge&logo=react-cookie&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Icons-EF495E?style=for-the-badge&logo=react-icons&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/DaisyUi-FFFF00?style=for-the-badge&logo=daisyui&logoColor=white" />
-<img src="https://img.shields.io/badge/SweetAlert-7D4698?style=for-the-badge&logo=Sweet-Alert&logoColor=white" />
+<img src="https://img.shields.io/badge/Flaticon-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Agile-CD7E26?style=for-the-badge&logo=agile&logoColor=white" />
 
 <br/>
