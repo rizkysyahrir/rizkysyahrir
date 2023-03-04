@@ -18,7 +18,7 @@
 
 ## :boy: About Me
 
-Hi, I am a Quality Engineer with Java Programming Language skills. Currently concentrating on Automation Frameworks with Selenium and Cucumber, but willing to learn new technical skills. proficient in Product Analysis, Test Methods, Testcase Creation, or Testcase Management, and understand several modules related to Blackbox Testing and Whitebox Testing.
+Hi, I am a Quality Engineer with Java Programming Language skills. Currently concentrating on Automation Frameworks with Selenium and Cucumber, but willing to learn new technical skills. Have skills in Product Analysis, Test Methods, Testcase Development, or Testcase Management, and understand several modules related to Blackbox Testing and Whitebox Testing.
 <br>
 
 - 💻 I’m enthusiast to collaborate on Software Engineer
@@ -45,7 +45,7 @@ Hi, I am a Quality Engineer with Java Programming Language skills. Currently con
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Rest Assured](https://img.shields.io/badge/-rest%20assured-000000?style=for-the-badge&logoColor=black)
-![Serenity BDD](https://img.shields.io/badge/-serenit%20ybdd-16a67a?style=for-the-badge&logoColor=black)
+![Serenity BDD](https://img.shields.io/badge/-serenity%20bdd-16a67a?style=for-the-badge&logoColor=black)
 ![Cucumber](https://img.shields.io/badge/-cucumber-4bc47b?style=for-the-badge&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/materialui-%231572B6.svg?style=for-the-badge&logo=mui&logoColor=white)
