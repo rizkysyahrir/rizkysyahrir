@@ -10,46 +10,28 @@
 
 # Table of contents
 <!--ts-->
-   * [Stats](#stats)
+   * [My Projects](#my-projects)
    * [Tools](#tools)
-   * [Bincang QA](#%EF%B8%8Fbincang-qa)
-        * [SQA Journey Path](#sqa-journey-path)
-        * [Postman Tutorial](#postman)
-        * [Tips & Trick SQA](#tips--trick)
+   * [Github Stats](#github-stats)
    * [Connect](#connect)
-   * [Contact me](#contact-me)
 <!--te-->
-
-<hr/>
-
-<br/>
 
 ## :boy: About Me
 
-Hi, I am a Frontend Engineer with UI/UX design and web development skills. Currently concentrating on Reactjs with JavaScript or Typescript, but willing to learn new technical skills. proficient in HTML, CSS, JavaScript, or Typescript, as well as some libraries like Tailwind CSS and React. I am looking for a position as a front-end web developer. Let's connect on LinkedIn or you can contact me at aryoyudhanto25399@gmail.com.
+Hi, I am a Quality Engineer with Java Programming Language skills. Currently concentrating on Automation Frameworks with Selenium and Cucumber, but willing to learn new technical skills. proficient in Product Analysis, Test Methods, Testcase Creation, or Testcase Management, and understand several modules related to Blackbox Testing and Whitebox Testing.
 <br>
 
-- 💻 I’m currently looking for a job as Frontend Engineer<br/>
-- 🖱️ I’m enthusiast to collaborate on Web Development
-
-<br>
-
-## 📘 My Projects</h2>
-
-  <p align="left">
-    <a href="https://github.com/rizkysyahrir/EDU-APP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rizkysyahrir&repo=EDU-APP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/aryoyudhanto/ecommerce-FE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryoyudhanto&repo=ecommerce-FE&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/aryoyudhanto/Airbnb-FE"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryoyudhanto&repo=Airbnb-FE&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/aryoyudhanto/mymovies-app-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryoyudhanto&repo=mymovies-app-react&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/aryoyudhanto/pokemon-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryoyudhanto&repo=pokemon-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/aryoyudhanto/todo-list-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=aryoyudhanto&repo=todo-list-app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
-
-<a href="https://github.com/aryoyudhanto?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+- 💻 I’m enthusiast to collaborate on Software Engineer
 
 <br>
 
-## 🔨 Tools
+## 📘My Projects</h2>
+
+<a href="https://github.com/rizkysyahrir?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+
+<br>
+
+## 🔨Tools
 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Google Spreadsheets](https://img.shields.io/badge/-Google%20Spreadsheets-4bc47b?style=for-the-badge&logoColor=black)
