@@ -56,16 +56,9 @@ Hi, I am a Quality Engineer with Java Programming Language skills. Currently con
 
 ## 📊GitHub Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkysyahrir&theme=sea&hide_border=false&ring=161b228&include_all_commits=true&count_private=true" alt="Novalia's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkysyahrir&theme=sea&hide_border=false" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://github.com/rizkysyahrir/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkysyahrir&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Febrian's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkysyahrir&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<div align='center'>
-  
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkysyahrir&layout=compact&theme=sea&hide_border=false" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-  
- </div>
- 
  ## 🔗Connect
 <p>
   <a href="https://www.linkedin.com/in/febrian-syahrir-rizky-9a4238166/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
